@@ -11,8 +11,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [AVL Tree](#avl-tree)
-  * [Why AVL Trees?](#why-avl-trees)
+  * [RSA-Encryption](#avl-tree)
 * [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
@@ -27,8 +26,8 @@ If you are someone who is interested in data structures, trees, one of the first
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [C++](https://isocpp.org)
-* [Makefile](https://www.gnu.org/software/make/manual/make.html)
+* [Python 3.8](https://www.python.org)
+* [Spyder](https://www.spyder-ide.org)
 
 ## Getting Started
 
@@ -39,13 +38,9 @@ Before examining the project, we need to know about AVL trees.
 In computer science, an AVL tree (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree.  
 It was the first such data structure to be invented. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take O(log n) time in both the average and worst cases, where n is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.
 
-### Why AVL Trees?
-
-Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O(h) time where h is the height of the BST. The cost of these operations may become O(n) for a skewed Binary tree. If we make sure that height of the tree remains O(Logn) after every insertion and deletion, then we can guarantee an upper bound of O(Logn) for all these operations. The height of an AVL tree is always O(Logn) where n is the number of nodes in the tree (See this video lecture for proof).
-
 ## Usage
 
-1. Get a MinGW at [HERE](http://www.mingw.org/) and Install
+1. Get a  python  at [HERE](https://www.python.org) and Install
 2. Open file folder from command line
 ```sh
 cd desktop/AVL-Tree-Data-Structures
