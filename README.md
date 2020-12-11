@@ -1,4 +1,5 @@
-#RSA-Emcryption
+# RSA-Encryption
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -68,16 +69,16 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 Twitter: [twitter.com/fehmiisener](https://twitter.com/fehmiisener)  
 Mail: fehmiisener@gmail.com  
-Project Link: [RSA-Encryption](https://github.com/fehmisener/RSA-Encryption)
+Project Link: [RSA-Encryption](https://github.com/fehmiisener/RSA-Encryption)
 
-[contributors-shield]: https://img.shields.io/github/contributors/fehmisener/RSA-Encryption.svg?style=flat-square
-[contributors-url]: https://github.com/fehmisener/RSA-Encryption/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fehmisener/RSA-Encryption?style=flat-square
-[forks-url]: https://github.com/fehmisener/RSA-Encryption/network/members
-[stars-shield]: https://img.shields.io/github/stars/fehmisener/RSA-Encryption?style=flat-square
-[stars-url]: https://github.com/fehmisener/RSA-Encryption/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fehmisener/RSA-Encryption?style=flat-square
-[issues-url]: https://github.com/fehmisener/RSA-Encryption/issues
-[license-shield]: https://img.shields.io/github/license/fehmisener/RSA-Encryption?style=flat-square
-[license-url]: https://github.com/fehmisener/RSA-Encryption/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/fehmiisener/RSA-Encryption.svg?style=flat-square
+[contributors-url]: https://github.com/fehmiisener/RSA-Encryption/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fehmiisener/RSA-Encryption?style=flat-square
+[forks-url]: https://github.com/fehmiisener/RSA-Encryption/network/members
+[stars-shield]: https://img.shields.io/github/stars/fehmiisener/RSA-Encryption?style=flat-square
+[stars-url]: https://github.com/fehmiisener/RSA-Encryption/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fehmiisener/RSA-Encryption?style=flat-square
+[issues-url]: https://github.com/fehmiisener/RSA-Encryption/issues
+[license-shield]: https://img.shields.io/github/license/fehmiisener/RSA-Encryption?style=flat-square
+[license-url]: https://github.com/fehmiisener/RSA-Encryption/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
